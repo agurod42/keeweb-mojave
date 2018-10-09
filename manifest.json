@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "keeweb-mojave",
+  "description": "A KeeWeb dark theme, inspired by the new Dark Mode of macOS Mojave",
+  "author": {
+    "name": "agurodriguez",
+    "email": "me@agurodriguez.net",
+    "url": "http://agurodriguez.net"
+  },
+  "resources": {
+    "js": true,
+    "css": true
+  },
+  "licence": "",
+  "url": "https://github.com/agurodriguez/keeweb-mojave",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyeJsWMw8Fv6Wr/4hG1CAv4PW8xhO/rV+Yrf1dclJJvlvINeVqbm2DQpfvGoBbIS/3cM336l7stnrHA2Ae6G2FRl+zwBT199+Dq7n9N8qkXRqcdFU6CGBwTXyHubUhzwZljLc1n95n/UVKEyLABkj+5+ZUmWN1qi0Q3+bu0n1mswnLA1TWsXNe5yRifvNPENPiuUq8O394QUnztfNE4nLerFJ/3SJDml8F0mguFDPsImPx864HLHNlxyTllAHGt81mAcgFiUnPlNQ3nYGPwLT1yFMxNEWgFICOaUiwh2K0amnaW8rMVOmtCFF0Ob4U9ajWyKpTLr0Vaag56EibEb13QIDAQAB",
+  "license": "MIT"
+}
