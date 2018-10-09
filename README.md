@@ -1,5 +1,5 @@
 # keeweb-mojave
 
-A KeeWeb dark theme, inspired by the new Dark Mode of macOS Mojave
+A [KeeWeb](https://github.com/keeweb/keeweb) dark theme, inspired by the new Dark Mode of macOS Mojave
 
-![](docs/screenshot.png)
+![keeweb-mojave](docs/screenshot.png)
